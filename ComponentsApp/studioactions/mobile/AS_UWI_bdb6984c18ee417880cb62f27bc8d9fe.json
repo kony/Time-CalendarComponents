@@ -1,0 +1,37 @@
+{
+    "AS_UWI_bdb6984c18ee417880cb62f27bc8d9fe": {
+        "id": "AS_UWI_bdb6984c18ee417880cb62f27bc8d9fe",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "hour",
+            "datatype": "collection"
+        }, {
+            "name": "minute",
+            "datatype": "collection"
+        }],
+        "contextObj": {
+            "name": "frmTimepicker",
+            "type": "forms",
+            "platform": null,
+            "KUID": "if0796f4eb764c70ad33a2241122312a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___e05d11277e5742c8bda0e5c9644e05f6",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "timeSelected",
+            "display": "timeSelected",
+            "inputparams": [{
+                "name": "param1",
+                "value": " hour"
+            }, {
+                "name": "parame2",
+                "value": " minute"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

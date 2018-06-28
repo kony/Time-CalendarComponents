@@ -1,0 +1,133 @@
+{
+    "classname": "clndr",
+    "definitions": {
+        "apis": {
+            "custom": [],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [],
+            "passthrough": []
+        },
+        "groups": {
+            "apis": [],
+            "events": [],
+            "properties": [
+                "Calendar Range"
+            ],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [
+                {
+                    "access": "Write",
+                    "defaultValue": "1/15/1900",
+                    "group": "Calendar Range",
+                    "kuid": "g7c90733e9f5445dae74a55bc01908e7",
+                    "originalPropertyKey": "calendarStartDate",
+                    "propertyIndex": 1,
+                    "propertyKey": "calendarStartDate",
+                    "pw": {
+                        "displayName": "Start Date",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "ffd77d1e1e964fdb85607efa7de59bdd",
+                    "type": "string",
+                    "value": ""
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "1/15/2030",
+                    "group": "Calendar Range",
+                    "kuid": "e7a45bad988f43439cfcac7ed1b6c0bc",
+                    "originalPropertyKey": "calendarendDate",
+                    "propertyIndex": 2,
+                    "propertyKey": "calendarendDate",
+                    "pw": {
+                        "displayName": "End Date",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "ffd77d1e1e964fdb85607efa7de59bdd",
+                    "type": "string",
+                    "value": ""
+                }
+            ],
+            "passthrough": [
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "ecb1ea64e8af4b05904cbefaa7765a54",
+                    "originalPropertyKey": "skin",
+                    "propertyIndex": 1,
+                    "propertyKey": "skin1",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "skin",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Normal",
+                        "srcWidget": "flxDate",
+                        "wType": "FlexContainer"
+                    },
+                    "srcWgtKUID": "ib95532d90de46039a182590cb6edc10"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "ded6e56504fd488b81a0d0053c7eae6f",
+                    "originalPropertyKey": "skin",
+                    "propertyIndex": 2,
+                    "propertyKey": "skin2",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "skin",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Normal",
+                        "srcWidget": "flxItem0",
+                        "wType": "FlexContainer"
+                    },
+                    "srcWgtKUID": "j6856c3c99264e2f97913c159c3c6662"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "c6ce8c6632854311b77edfaec509eb77",
+                    "originalPropertyKey": "skin",
+                    "propertyIndex": 9,
+                    "propertyKey": "skin127204997",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "skin",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Normal",
+                        "srcWidget": "lblText0",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "ed13bb8265d345f5aab916f209aab026"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "d04fc25c15a244bf9cd9b6b84afb0750",
+                    "originalPropertyKey": "skin",
+                    "propertyIndex": 10,
+                    "propertyKey": "skin3",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "skin",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Normal",
+                        "srcWidget": "lblText1",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "cdc2ea2d53284ac1b6a19208f31d8d2e"
+                }
+            ]
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "com.konysa",
+    "version": "1.0.0"
+}

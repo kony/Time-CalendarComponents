@@ -1,0 +1,66 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "60%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sce04d86638a4880a36ba81f2435fab5",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "30%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "children": [
+        "lblCheckOutDate",
+        "lblCheckOutMonth",
+        "lblCheckOutDay",
+        "lblCheckOutHeader",
+        "lblCheckOutSelectDate"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxCheckOut",
+    "ide_onClick": "AS_FlexContainer_fc867d88e27a427998bc77ec87f45036",
+    "info": null,
+    "isvisible": true,
+    "kuid": "b21060249e19476ea93ef68f5c822df8",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxDate",
+    "pf": "userwidgetmodel",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

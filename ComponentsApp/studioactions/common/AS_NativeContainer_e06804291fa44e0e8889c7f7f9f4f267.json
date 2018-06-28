@@ -1,0 +1,30 @@
+{
+    "AS_NativeContainer_e06804291fa44e0e8889c7f7f9f4f267": {
+        "id": "AS_NativeContainer_e06804291fa44e0e8889c7f7f9f4f267",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "uwu9d02ce249304aa7b9776bc30fc9784c",
+            "type": "userwidgets",
+            "KUID": "u9d02ce249304aa7b9776bc30fc9784c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___c8aebb80994348b1a1070a64f3fc377b",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "addTimePicker",
+            "display": "addTimePicker",
+            "inputparams": [{
+                "name": "eventObject",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

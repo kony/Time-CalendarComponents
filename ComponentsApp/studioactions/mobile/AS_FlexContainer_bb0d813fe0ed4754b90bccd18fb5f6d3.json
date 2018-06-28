@@ -1,0 +1,30 @@
+{
+    "AS_FlexContainer_bb0d813fe0ed4754b90bccd18fb5f6d3": {
+        "id": "AS_FlexContainer_bb0d813fe0ed4754b90bccd18fb5f6d3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_hb6b0c08b4de471d891be4b4639c0226",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onItemClick",
+            "display": "onItemClick",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": true,
+            "source": "controller"
+        }, {
+            "id": "ADD_SNIPPET__ee8bc819e3de4cd580eaad1d3b878ac8",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onItemClick(eventobject,context);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,919 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {},
+        {},
+        {}
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "93%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "350dp"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "counter": "10",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": true,
+    "id": "segTest",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ebbc8b52f44146bbba88582ec0be3556",
+    "masterdata": {},
+    "mobile": {
+        "_data_": [
+            [
+                {
+                    "lblMonthText": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Month"
+                    }
+                },
+                [
+                    {
+                        "lblDesc00": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc01": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc02": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc10": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc11": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc12": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc20": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc21": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc22": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc30": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc31": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc32": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc40": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc41": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc42": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc50": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc51": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc52": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc60": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc61": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc62": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification00": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification01": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification02": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification10": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification11": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification12": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification20": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification21": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification22": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification30": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification31": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification32": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification40": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification41": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification42": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification50": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification51": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification52": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification60": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification61": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification62": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblText0": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "X"
+                        },
+                        "lblText1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblText2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblText3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblText4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblText5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblText6": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Y"
+                        },
+                        "lblTitle00": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle01": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle02": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle10": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle11": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle12": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle20": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle21": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle22": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle30": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle31": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle32": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle40": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle41": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle42": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle50": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle51": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle52": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle60": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle61": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle62": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        }
+                    }
+                ]
+            ],
+            [
+                {
+                    "lblMonthText": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Month"
+                    }
+                },
+                [
+                    {
+                        "lblDesc00": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc01": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc02": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc10": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc11": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc12": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc20": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc21": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc22": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc30": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc31": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc32": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc40": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc41": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc42": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc50": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc51": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc52": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc60": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc61": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblDesc62": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification00": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification01": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification02": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification10": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification11": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification12": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification20": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification21": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification22": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification30": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification31": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification32": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification40": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification41": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification42": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification50": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification51": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification52": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification60": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification61": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblNotification62": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblText0": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblText1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblText2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblText3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblText4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblText5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblText6": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle00": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle01": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle02": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle10": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle11": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle12": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle20": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle21": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle22": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle30": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle31": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle32": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle40": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle41": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle42": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle50": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle51": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle52": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle60": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle61": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblTitle62": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        }
+                    }
+                ]
+            ]
+        ],
+        "rowTemplateId": "ce4de35345cd4af08ac89db5b23eae80",
+        "rowtemplate": "flxRootCalendar",
+        "sectionHeaderTemplateId": "hd3874b8b76346be84da82eadb7146dd",
+        "sectionheadertemplate": "flxCalSecRoot",
+        "widgetdatamap": {
+            "flxCalSecRoot": "flxCalSecRoot",
+            "flxDate": "flxDate",
+            "flxEvent00": "flxEvent00",
+            "flxEvent01": "flxEvent01",
+            "flxEvent02": "flxEvent02",
+            "flxEvent10": "flxEvent10",
+            "flxEvent11": "flxEvent11",
+            "flxEvent12": "flxEvent12",
+            "flxEvent20": "flxEvent20",
+            "flxEvent21": "flxEvent21",
+            "flxEvent22": "flxEvent22",
+            "flxEvent30": "flxEvent30",
+            "flxEvent31": "flxEvent31",
+            "flxEvent32": "flxEvent32",
+            "flxEvent40": "flxEvent40",
+            "flxEvent41": "flxEvent41",
+            "flxEvent42": "flxEvent42",
+            "flxEvent50": "flxEvent50",
+            "flxEvent51": "flxEvent51",
+            "flxEvent52": "flxEvent52",
+            "flxEvent60": "flxEvent60",
+            "flxEvent61": "flxEvent61",
+            "flxEvent62": "flxEvent62",
+            "flxInfo0": "flxInfo0",
+            "flxInfo1": "flxInfo1",
+            "flxInfo2": "flxInfo2",
+            "flxInfo3": "flxInfo3",
+            "flxInfo4": "flxInfo4",
+            "flxInfo5": "flxInfo5",
+            "flxInfo6": "flxInfo6",
+            "flxInfoRoot": "flxInfoRoot",
+            "flxItem0": "flxItem0",
+            "flxItem1": "flxItem1",
+            "flxItem2": "flxItem2",
+            "flxItem3": "flxItem3",
+            "flxItem4": "flxItem4",
+            "flxItem5": "flxItem5",
+            "flxItem6": "flxItem6",
+            "flxRootCalendar": "flxRootCalendar",
+            "lblDesc00": "lblDesc00",
+            "lblDesc01": "lblDesc01",
+            "lblDesc02": "lblDesc02",
+            "lblDesc10": "lblDesc10",
+            "lblDesc11": "lblDesc11",
+            "lblDesc12": "lblDesc12",
+            "lblDesc20": "lblDesc20",
+            "lblDesc21": "lblDesc21",
+            "lblDesc22": "lblDesc22",
+            "lblDesc30": "lblDesc30",
+            "lblDesc31": "lblDesc31",
+            "lblDesc32": "lblDesc32",
+            "lblDesc40": "lblDesc40",
+            "lblDesc41": "lblDesc41",
+            "lblDesc42": "lblDesc42",
+            "lblDesc50": "lblDesc50",
+            "lblDesc51": "lblDesc51",
+            "lblDesc52": "lblDesc52",
+            "lblDesc60": "lblDesc60",
+            "lblDesc61": "lblDesc61",
+            "lblDesc62": "lblDesc62",
+            "lblMonthText": "lblMonthText",
+            "lblNotification00": "lblNotification00",
+            "lblNotification01": "lblNotification01",
+            "lblNotification02": "lblNotification02",
+            "lblNotification10": "lblNotification10",
+            "lblNotification11": "lblNotification11",
+            "lblNotification12": "lblNotification12",
+            "lblNotification20": "lblNotification20",
+            "lblNotification21": "lblNotification21",
+            "lblNotification22": "lblNotification22",
+            "lblNotification30": "lblNotification30",
+            "lblNotification31": "lblNotification31",
+            "lblNotification32": "lblNotification32",
+            "lblNotification40": "lblNotification40",
+            "lblNotification41": "lblNotification41",
+            "lblNotification42": "lblNotification42",
+            "lblNotification50": "lblNotification50",
+            "lblNotification51": "lblNotification51",
+            "lblNotification52": "lblNotification52",
+            "lblNotification60": "lblNotification60",
+            "lblNotification61": "lblNotification61",
+            "lblNotification62": "lblNotification62",
+            "lblText0": "lblText0",
+            "lblText1": "lblText1",
+            "lblText2": "lblText2",
+            "lblText3": "lblText3",
+            "lblText4": "lblText4",
+            "lblText5": "lblText5",
+            "lblText6": "lblText6",
+            "lblTitle00": "lblTitle00",
+            "lblTitle01": "lblTitle01",
+            "lblTitle02": "lblTitle02",
+            "lblTitle10": "lblTitle10",
+            "lblTitle11": "lblTitle11",
+            "lblTitle12": "lblTitle12",
+            "lblTitle20": "lblTitle20",
+            "lblTitle21": "lblTitle21",
+            "lblTitle22": "lblTitle22",
+            "lblTitle30": "lblTitle30",
+            "lblTitle31": "lblTitle31",
+            "lblTitle32": "lblTitle32",
+            "lblTitle40": "lblTitle40",
+            "lblTitle41": "lblTitle41",
+            "lblTitle42": "lblTitle42",
+            "lblTitle50": "lblTitle50",
+            "lblTitle51": "lblTitle51",
+            "lblTitle52": "lblTitle52",
+            "lblTitle60": "lblTitle60",
+            "lblTitle61": "lblTitle61",
+            "lblTitle62": "lblTitle62"
+        }
+    },
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot_2.png",
+    "pageondotimage": "pageondot_2.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "clndr",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowcounter": 0,
+    "rowfocusskin": "s0cfe8f884574e49ad61eab7a4bf2340",
+    "rowskin": "s96d5961d8b54f90bbbc5bfc64f89fa5",
+    "rowtemplate": "flxRootCalendar",
+    "screenlevelwidget": false,
+    "seccounter": 1,
+    "sectionheaderskin": "s8fdafc9fa9b447198bd7ffa089a2068",
+    "sectionheadertemplate": "flxCalSecRoot",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "aaaaaa00",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxCalSecRoot": "flxCalSecRoot",
+        "flxDate": "flxDate",
+        "flxEvent00": "flxEvent00",
+        "flxEvent01": "flxEvent01",
+        "flxEvent02": "flxEvent02",
+        "flxEvent10": "flxEvent10",
+        "flxEvent11": "flxEvent11",
+        "flxEvent12": "flxEvent12",
+        "flxEvent20": "flxEvent20",
+        "flxEvent21": "flxEvent21",
+        "flxEvent22": "flxEvent22",
+        "flxEvent30": "flxEvent30",
+        "flxEvent31": "flxEvent31",
+        "flxEvent32": "flxEvent32",
+        "flxEvent40": "flxEvent40",
+        "flxEvent41": "flxEvent41",
+        "flxEvent42": "flxEvent42",
+        "flxEvent50": "flxEvent50",
+        "flxEvent51": "flxEvent51",
+        "flxEvent52": "flxEvent52",
+        "flxEvent60": "flxEvent60",
+        "flxEvent61": "flxEvent61",
+        "flxEvent62": "flxEvent62",
+        "flxInfo0": "flxInfo0",
+        "flxInfo1": "flxInfo1",
+        "flxInfo2": "flxInfo2",
+        "flxInfo3": "flxInfo3",
+        "flxInfo4": "flxInfo4",
+        "flxInfo5": "flxInfo5",
+        "flxInfo6": "flxInfo6",
+        "flxInfoRoot": "flxInfoRoot",
+        "flxItem0": "flxItem0",
+        "flxItem1": "flxItem1",
+        "flxItem2": "flxItem2",
+        "flxItem3": "flxItem3",
+        "flxItem4": "flxItem4",
+        "flxItem5": "flxItem5",
+        "flxItem6": "flxItem6",
+        "flxRootCalendar": "flxRootCalendar",
+        "lblDesc00": "lblDesc00",
+        "lblDesc01": "lblDesc01",
+        "lblDesc02": "lblDesc02",
+        "lblDesc10": "lblDesc10",
+        "lblDesc11": "lblDesc11",
+        "lblDesc12": "lblDesc12",
+        "lblDesc20": "lblDesc20",
+        "lblDesc21": "lblDesc21",
+        "lblDesc22": "lblDesc22",
+        "lblDesc30": "lblDesc30",
+        "lblDesc31": "lblDesc31",
+        "lblDesc32": "lblDesc32",
+        "lblDesc40": "lblDesc40",
+        "lblDesc41": "lblDesc41",
+        "lblDesc42": "lblDesc42",
+        "lblDesc50": "lblDesc50",
+        "lblDesc51": "lblDesc51",
+        "lblDesc52": "lblDesc52",
+        "lblDesc60": "lblDesc60",
+        "lblDesc61": "lblDesc61",
+        "lblDesc62": "lblDesc62",
+        "lblMonthText": "lblMonthText",
+        "lblNotification00": "lblNotification00",
+        "lblNotification01": "lblNotification01",
+        "lblNotification02": "lblNotification02",
+        "lblNotification10": "lblNotification10",
+        "lblNotification11": "lblNotification11",
+        "lblNotification12": "lblNotification12",
+        "lblNotification20": "lblNotification20",
+        "lblNotification21": "lblNotification21",
+        "lblNotification22": "lblNotification22",
+        "lblNotification30": "lblNotification30",
+        "lblNotification31": "lblNotification31",
+        "lblNotification32": "lblNotification32",
+        "lblNotification40": "lblNotification40",
+        "lblNotification41": "lblNotification41",
+        "lblNotification42": "lblNotification42",
+        "lblNotification50": "lblNotification50",
+        "lblNotification51": "lblNotification51",
+        "lblNotification52": "lblNotification52",
+        "lblNotification60": "lblNotification60",
+        "lblNotification61": "lblNotification61",
+        "lblNotification62": "lblNotification62",
+        "lblText0": "lblText0",
+        "lblText1": "lblText1",
+        "lblText2": "lblText2",
+        "lblText3": "lblText3",
+        "lblText4": "lblText4",
+        "lblText5": "lblText5",
+        "lblText6": "lblText6",
+        "lblTitle00": "lblTitle00",
+        "lblTitle01": "lblTitle01",
+        "lblTitle02": "lblTitle02",
+        "lblTitle10": "lblTitle10",
+        "lblTitle11": "lblTitle11",
+        "lblTitle12": "lblTitle12",
+        "lblTitle20": "lblTitle20",
+        "lblTitle21": "lblTitle21",
+        "lblTitle22": "lblTitle22",
+        "lblTitle30": "lblTitle30",
+        "lblTitle31": "lblTitle31",
+        "lblTitle32": "lblTitle32",
+        "lblTitle40": "lblTitle40",
+        "lblTitle41": "lblTitle41",
+        "lblTitle42": "lblTitle42",
+        "lblTitle50": "lblTitle50",
+        "lblTitle51": "lblTitle51",
+        "lblTitle52": "lblTitle52",
+        "lblTitle60": "lblTitle60",
+        "lblTitle61": "lblTitle61",
+        "lblTitle62": "lblTitle62"
+    },
+    "zindex": 1
+}

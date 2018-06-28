@@ -1,0 +1,27 @@
+{
+    "AS_FlexContainer_b70eb4a5101a4e8f886eae8d5e466038": {
+        "id": "AS_FlexContainer_b70eb4a5101a4e8f886eae8d5e466038",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "KUID": "ub551a823d8c4508a59f5e5122826fb7",
+            "name": "uwub551a823d8c4508a59f5e5122826fb7",
+            "type": "userwidgets"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___g2249d94c5d943f5874a9f00a6d355d4",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "calendarPostShow",
+            "display": "calendarPostShow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

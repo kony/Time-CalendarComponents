@@ -1,0 +1,29 @@
+{
+    "AS_Button_e0c6952606604816a60f91230105fca9": {
+        "id": "AS_Button_e0c6952606604816a60f91230105fca9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e53a56e1646f41898c10e348dcf41195"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___a62fd22f570e4dbb8cb073e271a23f36",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmTimepicker",
+            "formKUID": "if0796f4eb764c70ad33a2241122312a",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "14.50%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "32.25%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s50b0ea964334873bb33c27f41ebe69f",
+    "_width_": {
+        "type": "string",
+        "value": "11.50%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "70.50%"
+    },
+    "children": [
+        "img31",
+        "lbl31"
+    ],
+    "clipbounds": true,
+    "containerId": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flx31",
+    "info": null,
+    "isvisible": true,
+    "kuid": "ibd30e4d21574b3b8d8c071a414e8ac9",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxMonth",
+    "pf": "tmpRow",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

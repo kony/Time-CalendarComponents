@@ -1,0 +1,81 @@
+{
+    "classname": "timepicker",
+    "definitions": {
+        "apis": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "jc30996218bb4eecb0d91666f9dd2ad5",
+                    "paramList": [
+                        {
+                            "name": "timeString"
+                        }
+                    ],
+                    "propertyKey": "setTime",
+                    "pw": {
+                        "displayName": "setTime",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "d362946c12b144e28c1160d3870c0e20",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "i3f4432b748246b59c5f512b8676be22",
+                    "paramList": [],
+                    "propertyKey": "getTime",
+                    "pw": {
+                        "displayName": "getTime",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "d362946c12b144e28c1160d3870c0e20",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "ae73783b2ab148feb8f0dad606f694c2",
+                    "paramList": [
+                        {
+                            "name": "hour"
+                        },
+                        {
+                            "name": "minute"
+                        }
+                    ],
+                    "propertyIndex": 1,
+                    "propertyKey": "onTimeSelected",
+                    "pw": {
+                        "displayName": "onTimeSelected",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "d362946c12b144e28c1160d3870c0e20",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "groups": {
+            "apis": [
+                "General"
+            ],
+            "events": [],
+            "properties": [],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [],
+            "passthrough": []
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "com.konysamples",
+    "version": "1.0.0"
+}

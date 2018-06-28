@@ -1,0 +1,2490 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bounces_": false,
+    "_data_": [
+        {},
+        {},
+        {}
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "psp": {
+            "dockSectionHeaders": true
+        }
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "12",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": true,
+    "id": "segDate",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "bounces": false,
+            "indicator": "none"
+        }
+    },
+    "isvisible": true,
+    "kuid": "j096343f2c534634bed9a0c71bac3bd2",
+    "masterdata": {},
+    "mobile": {
+        "_data_": [
+            [
+                {
+                    "lblFriday": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "F"
+                    },
+                    "lblMonday": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "M"
+                    },
+                    "lblMonthYear": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "JULY"
+                    },
+                    "lblSaturday": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "S"
+                    },
+                    "lblSunday": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "S"
+                    },
+                    "lblThursday": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "T"
+                    },
+                    "lblTuesday": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "T"
+                    },
+                    "lblWednesday": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "W"
+                    }
+                },
+                [
+                    {
+                        "img1": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img10": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img11": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img12": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img13": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img14": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img15": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img16": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img17": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img18": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img19": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img2": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img20": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img21": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img22": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img23": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img24": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img25": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img26": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img27": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img28": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img29": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img3": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img30": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img31": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img32": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img33": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img34": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img35": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img36": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img37": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img38": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img39": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img4": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img40": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img41": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img42": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img5": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img6": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img7": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img8": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img9": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "lbl1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "1"
+                        },
+                        "lbl10": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl11": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl12": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl13": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl14": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl15": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "1"
+                        },
+                        "lbl16": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl17": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl18": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl19": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl20": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl21": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl22": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "1"
+                        },
+                        "lbl23": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl24": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl25": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl26": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl27": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl28": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl29": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl30": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl31": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl32": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl33": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl34": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "1"
+                        },
+                        "lbl35": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl36": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl37": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl38": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl39": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl40": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl41": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "1"
+                        },
+                        "lbl42": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl6": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl7": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl8": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "1"
+                        },
+                        "lbl9": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        }
+                    },
+                    {
+                        "img1": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img10": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img11": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img12": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img13": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img14": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img15": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img16": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img17": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img18": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img19": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img2": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img20": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img21": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img22": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img23": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img24": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img25": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img26": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img27": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img28": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img29": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img3": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img30": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img31": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img32": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img33": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img34": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img35": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img36": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img37": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img38": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img39": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img4": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img40": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img41": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img42": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img5": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img6": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img7": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img8": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img9": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "lbl1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "1"
+                        },
+                        "lbl10": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl11": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl12": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl13": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl14": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl15": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "1"
+                        },
+                        "lbl16": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl17": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl18": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl19": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl20": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl21": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl22": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "1"
+                        },
+                        "lbl23": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl24": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl25": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl26": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl27": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl28": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl29": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl30": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl31": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl32": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl33": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl34": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "1"
+                        },
+                        "lbl35": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl36": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl37": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl38": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl39": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl40": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl41": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "1"
+                        },
+                        "lbl42": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl6": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl7": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl8": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "1"
+                        },
+                        "lbl9": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        }
+                    },
+                    {
+                        "img1": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img10": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img11": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img12": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img13": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img14": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img15": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img16": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img17": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img18": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img19": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img2": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img20": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img21": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img22": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img23": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img24": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img25": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img26": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img27": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img28": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img29": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img3": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img30": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img31": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img32": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img33": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img34": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img35": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img36": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img37": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img38": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img39": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img4": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img40": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img41": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img42": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img5": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img6": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img7": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img8": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img9": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "lbl1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "1"
+                        },
+                        "lbl10": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl11": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl12": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl13": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl14": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl15": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "1"
+                        },
+                        "lbl16": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl17": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl18": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl19": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl20": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl21": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl22": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "1"
+                        },
+                        "lbl23": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl24": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl25": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl26": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl27": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl28": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl29": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl30": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl31": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl32": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl33": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl34": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "1"
+                        },
+                        "lbl35": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl36": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl37": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl38": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl39": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl40": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl41": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "1"
+                        },
+                        "lbl42": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl6": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl7": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl8": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "1"
+                        },
+                        "lbl9": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        }
+                    }
+                ]
+            ],
+            [
+                {
+                    "lblFriday": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "F"
+                    },
+                    "lblMonday": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "M"
+                    },
+                    "lblMonthYear": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "JULY"
+                    },
+                    "lblSaturday": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "S"
+                    },
+                    "lblSunday": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "S"
+                    },
+                    "lblThursday": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "T"
+                    },
+                    "lblTuesday": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "T"
+                    },
+                    "lblWednesday": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "W"
+                    }
+                },
+                [
+                    {
+                        "img1": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img10": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img11": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img12": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img13": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img14": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img15": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img16": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img17": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img18": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img19": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img2": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img20": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img21": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img22": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img23": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img24": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img25": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img26": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img27": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img28": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img29": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img3": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img30": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img31": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img32": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img33": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img34": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img35": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img36": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img37": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img38": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img39": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img4": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img40": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img41": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img42": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img5": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img6": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img7": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img8": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img9": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "lbl1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "1"
+                        },
+                        "lbl10": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl11": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl12": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl13": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl14": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl15": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "1"
+                        },
+                        "lbl16": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl17": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl18": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl19": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl20": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl21": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl22": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "1"
+                        },
+                        "lbl23": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl24": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl25": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl26": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl27": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl28": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl29": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl30": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl31": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl32": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl33": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl34": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "1"
+                        },
+                        "lbl35": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl36": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl37": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl38": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl39": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl40": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl41": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "1"
+                        },
+                        "lbl42": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl6": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl7": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl8": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "1"
+                        },
+                        "lbl9": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        }
+                    },
+                    {
+                        "img1": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img10": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img11": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img12": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img13": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img14": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img15": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img16": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img17": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img18": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img19": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img2": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img20": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img21": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img22": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img23": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img24": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img25": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img26": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img27": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img28": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img29": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img3": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img30": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img31": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img32": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img33": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img34": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img35": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img36": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img37": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img38": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img39": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img4": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img40": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img41": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img42": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img5": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img6": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img7": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img8": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img9": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "lbl1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "1"
+                        },
+                        "lbl10": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl11": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl12": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl13": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl14": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl15": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "1"
+                        },
+                        "lbl16": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl17": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl18": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl19": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl20": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl21": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl22": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "1"
+                        },
+                        "lbl23": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl24": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl25": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl26": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl27": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl28": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl29": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl30": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl31": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl32": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl33": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl34": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "1"
+                        },
+                        "lbl35": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl36": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl37": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl38": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl39": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl40": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl41": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "1"
+                        },
+                        "lbl42": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl6": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl7": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl8": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "1"
+                        },
+                        "lbl9": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        }
+                    },
+                    {
+                        "img1": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img10": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img11": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img12": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img13": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img14": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img15": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img16": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img17": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img18": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img19": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img2": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img20": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img21": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img22": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img23": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img24": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img25": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img26": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img27": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img28": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img29": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img3": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img30": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img31": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img32": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img33": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img34": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img35": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img36": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img37": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img38": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img39": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img4": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img40": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img41": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img42": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img5": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img6": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img7": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img8": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "img9": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "imagedrag_1.png"
+                        },
+                        "lbl1": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "1"
+                        },
+                        "lbl10": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl11": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl12": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl13": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl14": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl15": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "1"
+                        },
+                        "lbl16": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl17": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl18": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl19": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl2": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl20": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl21": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl22": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "1"
+                        },
+                        "lbl23": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl24": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl25": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl26": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl27": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl28": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl29": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl3": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl30": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl31": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl32": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl33": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl34": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "1"
+                        },
+                        "lbl35": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl36": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl37": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl38": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl39": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl4": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl40": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl41": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "1"
+                        },
+                        "lbl42": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl5": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl6": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl7": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        },
+                        "lbl8": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "1"
+                        },
+                        "lbl9": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10"
+                        }
+                    }
+                ]
+            ]
+        ],
+        "rowTemplateId": "bd354cecb30e4bbba33d602d70fb1807",
+        "rowtemplate": "flxMonth",
+        "sectionHeaderTemplateId": "fae7f184199d4996b5420dfb00a287c2",
+        "sectionheadertemplate": "flxHead",
+        "widgetdatamap": {
+            "flx1": "flx1",
+            "flx10": "flx10",
+            "flx11": "flx11",
+            "flx12": "flx12",
+            "flx13": "flx13",
+            "flx14": "flx14",
+            "flx15": "flx15",
+            "flx16": "flx16",
+            "flx17": "flx17",
+            "flx18": "flx18",
+            "flx19": "flx19",
+            "flx2": "flx2",
+            "flx20": "flx20",
+            "flx21": "flx21",
+            "flx22": "flx22",
+            "flx23": "flx23",
+            "flx24": "flx24",
+            "flx25": "flx25",
+            "flx26": "flx26",
+            "flx27": "flx27",
+            "flx28": "flx28",
+            "flx29": "flx29",
+            "flx3": "flx3",
+            "flx30": "flx30",
+            "flx31": "flx31",
+            "flx32": "flx32",
+            "flx33": "flx33",
+            "flx34": "flx34",
+            "flx35": "flx35",
+            "flx36": "flx36",
+            "flx37": "flx37",
+            "flx38": "flx38",
+            "flx39": "flx39",
+            "flx4": "flx4",
+            "flx40": "flx40",
+            "flx41": "flx41",
+            "flx42": "flx42",
+            "flx5": "flx5",
+            "flx6": "flx6",
+            "flx7": "flx7",
+            "flx8": "flx8",
+            "flx9": "flx9",
+            "flxHead": "flxHead",
+            "flxMonth": "flxMonth",
+            "img1": "img1",
+            "img10": "img10",
+            "img11": "img11",
+            "img12": "img12",
+            "img13": "img13",
+            "img14": "img14",
+            "img15": "img15",
+            "img16": "img16",
+            "img17": "img17",
+            "img18": "img18",
+            "img19": "img19",
+            "img2": "img2",
+            "img20": "img20",
+            "img21": "img21",
+            "img22": "img22",
+            "img23": "img23",
+            "img24": "img24",
+            "img25": "img25",
+            "img26": "img26",
+            "img27": "img27",
+            "img28": "img28",
+            "img29": "img29",
+            "img3": "img3",
+            "img30": "img30",
+            "img31": "img31",
+            "img32": "img32",
+            "img33": "img33",
+            "img34": "img34",
+            "img35": "img35",
+            "img36": "img36",
+            "img37": "img37",
+            "img38": "img38",
+            "img39": "img39",
+            "img4": "img4",
+            "img40": "img40",
+            "img41": "img41",
+            "img42": "img42",
+            "img5": "img5",
+            "img6": "img6",
+            "img7": "img7",
+            "img8": "img8",
+            "img9": "img9",
+            "lbl1": "lbl1",
+            "lbl10": "lbl10",
+            "lbl11": "lbl11",
+            "lbl12": "lbl12",
+            "lbl13": "lbl13",
+            "lbl14": "lbl14",
+            "lbl15": "lbl15",
+            "lbl16": "lbl16",
+            "lbl17": "lbl17",
+            "lbl18": "lbl18",
+            "lbl19": "lbl19",
+            "lbl2": "lbl2",
+            "lbl20": "lbl20",
+            "lbl21": "lbl21",
+            "lbl22": "lbl22",
+            "lbl23": "lbl23",
+            "lbl24": "lbl24",
+            "lbl25": "lbl25",
+            "lbl26": "lbl26",
+            "lbl27": "lbl27",
+            "lbl28": "lbl28",
+            "lbl29": "lbl29",
+            "lbl3": "lbl3",
+            "lbl30": "lbl30",
+            "lbl31": "lbl31",
+            "lbl32": "lbl32",
+            "lbl33": "lbl33",
+            "lbl34": "lbl34",
+            "lbl35": "lbl35",
+            "lbl36": "lbl36",
+            "lbl37": "lbl37",
+            "lbl38": "lbl38",
+            "lbl39": "lbl39",
+            "lbl4": "lbl4",
+            "lbl40": "lbl40",
+            "lbl41": "lbl41",
+            "lbl42": "lbl42",
+            "lbl5": "lbl5",
+            "lbl6": "lbl6",
+            "lbl7": "lbl7",
+            "lbl8": "lbl8",
+            "lbl9": "lbl9",
+            "lblFriday": "lblFriday",
+            "lblMonday": "lblMonday",
+            "lblMonthYear": "lblMonthYear",
+            "lblSaturday": "lblSaturday",
+            "lblSunday": "lblSunday",
+            "lblThursday": "lblThursday",
+            "lblTuesday": "lblTuesday",
+            "lblWednesday": "lblWednesday"
+        }
+    },
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot_1.png",
+    "pageondotimage": "pageondot_1.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxCalendar",
+    "pf": "userwidgetmodel",
+    "retainselection": false,
+    "rowcounter": 2,
+    "rowfocusskin": "s0cfe8f884574e49ad61eab7a4bf2340",
+    "rowskin": "s01dd7a1149743a68be1bf7239dd9d6f",
+    "rowtemplate": null,
+    "screenlevelwidget": false,
+    "seccounter": 1,
+    "sectionheaderskin": "s8fdafc9fa9b447198bd7ffa089a2068",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": false,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flx1": "flx1",
+        "flx10": "flx10",
+        "flx11": "flx11",
+        "flx12": "flx12",
+        "flx13": "flx13",
+        "flx14": "flx14",
+        "flx15": "flx15",
+        "flx16": "flx16",
+        "flx17": "flx17",
+        "flx18": "flx18",
+        "flx19": "flx19",
+        "flx2": "flx2",
+        "flx20": "flx20",
+        "flx21": "flx21",
+        "flx22": "flx22",
+        "flx23": "flx23",
+        "flx24": "flx24",
+        "flx25": "flx25",
+        "flx26": "flx26",
+        "flx27": "flx27",
+        "flx28": "flx28",
+        "flx29": "flx29",
+        "flx3": "flx3",
+        "flx30": "flx30",
+        "flx31": "flx31",
+        "flx32": "flx32",
+        "flx33": "flx33",
+        "flx34": "flx34",
+        "flx35": "flx35",
+        "flx36": "flx36",
+        "flx37": "flx37",
+        "flx38": "flx38",
+        "flx39": "flx39",
+        "flx4": "flx4",
+        "flx40": "flx40",
+        "flx41": "flx41",
+        "flx42": "flx42",
+        "flx5": "flx5",
+        "flx6": "flx6",
+        "flx7": "flx7",
+        "flx8": "flx8",
+        "flx9": "flx9",
+        "flxHead": "flxHead",
+        "flxMonth": "flxMonth",
+        "img1": "img1",
+        "img10": "img10",
+        "img11": "img11",
+        "img12": "img12",
+        "img13": "img13",
+        "img14": "img14",
+        "img15": "img15",
+        "img16": "img16",
+        "img17": "img17",
+        "img18": "img18",
+        "img19": "img19",
+        "img2": "img2",
+        "img20": "img20",
+        "img21": "img21",
+        "img22": "img22",
+        "img23": "img23",
+        "img24": "img24",
+        "img25": "img25",
+        "img26": "img26",
+        "img27": "img27",
+        "img28": "img28",
+        "img29": "img29",
+        "img3": "img3",
+        "img30": "img30",
+        "img31": "img31",
+        "img32": "img32",
+        "img33": "img33",
+        "img34": "img34",
+        "img35": "img35",
+        "img36": "img36",
+        "img37": "img37",
+        "img38": "img38",
+        "img39": "img39",
+        "img4": "img4",
+        "img40": "img40",
+        "img41": "img41",
+        "img42": "img42",
+        "img5": "img5",
+        "img6": "img6",
+        "img7": "img7",
+        "img8": "img8",
+        "img9": "img9",
+        "lbl1": "lbl1",
+        "lbl10": "lbl10",
+        "lbl11": "lbl11",
+        "lbl12": "lbl12",
+        "lbl13": "lbl13",
+        "lbl14": "lbl14",
+        "lbl15": "lbl15",
+        "lbl16": "lbl16",
+        "lbl17": "lbl17",
+        "lbl18": "lbl18",
+        "lbl19": "lbl19",
+        "lbl2": "lbl2",
+        "lbl20": "lbl20",
+        "lbl21": "lbl21",
+        "lbl22": "lbl22",
+        "lbl23": "lbl23",
+        "lbl24": "lbl24",
+        "lbl25": "lbl25",
+        "lbl26": "lbl26",
+        "lbl27": "lbl27",
+        "lbl28": "lbl28",
+        "lbl29": "lbl29",
+        "lbl3": "lbl3",
+        "lbl30": "lbl30",
+        "lbl31": "lbl31",
+        "lbl32": "lbl32",
+        "lbl33": "lbl33",
+        "lbl34": "lbl34",
+        "lbl35": "lbl35",
+        "lbl36": "lbl36",
+        "lbl37": "lbl37",
+        "lbl38": "lbl38",
+        "lbl39": "lbl39",
+        "lbl4": "lbl4",
+        "lbl40": "lbl40",
+        "lbl41": "lbl41",
+        "lbl42": "lbl42",
+        "lbl5": "lbl5",
+        "lbl6": "lbl6",
+        "lbl7": "lbl7",
+        "lbl8": "lbl8",
+        "lbl9": "lbl9",
+        "lblFriday": "lblFriday",
+        "lblMonday": "lblMonday",
+        "lblMonthYear": "lblMonthYear",
+        "lblSaturday": "lblSaturday",
+        "lblSunday": "lblSunday",
+        "lblThursday": "lblThursday",
+        "lblTuesday": "lblTuesday",
+        "lblWednesday": "lblWednesday"
+    },
+    "zindex": 1
+}

@@ -1,0 +1,280 @@
+{
+    "classname": "daterangepicker",
+    "definitions": {
+        "apis": {
+            "custom": [
+                {
+                    "kuid": "d57381608e3944a1a9e44333a242d2f2",
+                    "paramList": [],
+                    "propertyKey": "getSelectedFromDate",
+                    "pw": {
+                        "displayName": "getSelectedFromDate",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "eb3611d130e04daf985f0d9e101d72ff",
+                    "type": "event"
+                },
+                {
+                    "kuid": "id163e068e3e4a069b38a4d8da67a8f5",
+                    "paramList": [],
+                    "propertyKey": "getSelectedToDate",
+                    "pw": {
+                        "displayName": "getSelectedToDate",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "eb3611d130e04daf985f0d9e101d72ff",
+                    "type": "event"
+                },
+                {
+                    "kuid": "c54727c1e2344ff7b0c7c38dec8ed5aa",
+                    "paramList": [
+                        {
+                            "name": "fromDateString"
+                        }
+                    ],
+                    "propertyKey": "setDefaultFromDate",
+                    "pw": {
+                        "displayName": "setDefaultFromDate",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "eb3611d130e04daf985f0d9e101d72ff",
+                    "type": "event"
+                },
+                {
+                    "kuid": "c42150fb1e684f2fba96e40780b97fd1",
+                    "paramList": [
+                        {
+                            "name": "toDateString"
+                        }
+                    ],
+                    "propertyKey": "setDefaultToDate",
+                    "pw": {
+                        "displayName": "setDefaultToDate",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "eb3611d130e04daf985f0d9e101d72ff",
+                    "type": "event"
+                },
+                {
+                    "kuid": "f6535adb31524572bf1d228f20823fea",
+                    "paramList": [
+                        {
+                            "name": "dateToDisable"
+                        }
+                    ],
+                    "propertyKey": "disableDate",
+                    "pw": {
+                        "displayName": "disableDate",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "eb3611d130e04daf985f0d9e101d72ff",
+                    "type": "event"
+                },
+                {
+                    "kuid": "bc24062458c14140ba09d49f444c648f",
+                    "paramList": [
+                        {
+                            "name": "dayToDisable"
+                        }
+                    ],
+                    "propertyKey": "disableDays",
+                    "pw": {
+                        "displayName": "disableDays",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "eb3611d130e04daf985f0d9e101d72ff",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [
+                {
+                    "kuid": "fab59773134f40ec8d8f3e9131ec7395",
+                    "paramList": [],
+                    "propertyIndex": 1,
+                    "propertyKey": "onDateSelectionDone",
+                    "pw": {
+                        "displayName": "onDateSelectionDone",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "eb3611d130e04daf985f0d9e101d72ff",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "groups": {
+            "apis": [],
+            "events": [],
+            "properties": [
+                "From Date",
+                "To Date",
+                "Calendar Range"
+            ],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [
+                {
+                    "access": "Write",
+                    "defaultValue": "1/15/2017",
+                    "group": "Calendar Range",
+                    "kuid": "f70b9428f0154c1dada92bab3462395f",
+                    "originalPropertyKey": "calendarStartDate",
+                    "propertyIndex": 1,
+                    "propertyKey": "calendarStartDate",
+                    "pw": {
+                        "displayName": "Start Date",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "eb3611d130e04daf985f0d9e101d72ff",
+                    "type": "string",
+                    "value": ""
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "12/15/2017",
+                    "group": "Calendar Range",
+                    "kuid": "e64db36cef2d410cb3ae8fe3a873427f",
+                    "originalPropertyKey": "calendarEndDate",
+                    "propertyIndex": 2,
+                    "propertyKey": "calendarEndDate",
+                    "pw": {
+                        "displayName": "End Date",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "eb3611d130e04daf985f0d9e101d72ff",
+                    "type": "string",
+                    "value": ""
+                }
+            ],
+            "passthrough": [
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "hdf63a7b9b3d45658ee4c25ac188d1c1",
+                    "originalPropertyKey": "isVisible",
+                    "propertyIndex": 1,
+                    "propertyKey": "isTodayEnabled",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "displayName": "Enable Today Button",
+                        "srcWidget": "btnToday",
+                        "type": "boolean",
+                        "uiRepresentation": "Label-Radiobuttongroup",
+                        "wType": "Button"
+                    },
+                    "srcWgtKUID": "cda50a8781094d239059d78e86058428"
+                },
+                {
+                    "access": "Enable",
+                    "group": "From Date",
+                    "kuid": "a131d88b8b134629b24ab2ed4dabffa5",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 1,
+                    "propertyKey": "fromDateLabel",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "displayName": "Label",
+                        "srcWidget": "lblCheckInHeader",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "h2648b75df6d459d9e7f4a7e29efd0e3"
+                },
+                {
+                    "access": "Enable",
+                    "group": "To Date",
+                    "kuid": "h929ca1a8633495cae7daf3a359c1a7d",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 1,
+                    "propertyKey": "toDateLabel",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "displayName": "Label",
+                        "srcWidget": "lblCheckOutHeader",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "if2dc5d5f852434ea81eb14fff4e077d"
+                },
+                {
+                    "access": "Enable",
+                    "group": "To Date",
+                    "kuid": "a761aaba7eae4d4bbcfe3aebdab90b55",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 2,
+                    "propertyKey": "toDateText",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "displayName": "Placeholder Text",
+                        "srcWidget": "lblCheckOutSelectDate",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "h31640cc74c045dfadfbf873e10e328b"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "id0e80d49ca94523b514fbdfab1d3f23",
+                    "originalPropertyKey": "src",
+                    "propertyIndex": 2,
+                    "propertyKey": "separatorImageSrc",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "widget",
+                        "displayName": "From and To Date Separator Image",
+                        "srcWidget": "imgArrow",
+                        "type": "string",
+                        "uiConfig": {
+                            "Button": {
+                                "dataRetrieverId": "Imagelist",
+                                "dataUpdaterId": "Imagelist",
+                                "popupId": "Imagelist",
+                                "type": "ImageEditBtn"
+                            },
+                            "Label": {}
+                        },
+                        "uiRepresentation": "Label-Label-Button",
+                        "wType": "Image"
+                    },
+                    "srcWgtKUID": "ba687ae71dde4abbad92803e16fd6a8c"
+                },
+                {
+                    "access": "Enable",
+                    "group": "From Date",
+                    "kuid": "g2c7bb81d92742438fec01319aa4e792",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 2,
+                    "propertyKey": "fromDateText",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "displayName": "Placeholder Text",
+                        "srcWidget": "lblCheckInSelectDate",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "id41a518ad6b4519995a491281b6acdc"
+                }
+            ]
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "com.konymp",
+    "version": "1.0.0"
+}

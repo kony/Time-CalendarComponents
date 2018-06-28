@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se6fb1a925a24d5abe8a440d752bf0e3",
+    "_src_": "imagedrag_1.png",
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerId": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "platform": "iphone",
+        "templateType": "segments",
+        "topLevelBox": null
+    },
+    "id": "img1",
+    "imagescalemode": 1,
+    "imagewhenfailed": "konymp_dpr_circle_light.png",
+    "imagewhiledownloading": "konymp_dpr_circle.png",
+    "info": null,
+    "invokedProperty": "imageWhenFailed",
+    "isvisible": false,
+    "kuid": "a00b11d9f7744467aa62b841b54b876b",
+    "name": "kony.ui.Image2",
+    "parent": "flx1",
+    "pf": "tmpRow",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}
